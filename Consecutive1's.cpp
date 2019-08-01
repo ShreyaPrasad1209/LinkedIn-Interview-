@@ -19,7 +19,7 @@ int maxConsecutiveOnes(int x)
 }
 int main()
 {
-    int n,k;
+    int n;
     cin >> n;
     cout << maxConsecutiveOnes(n);
 }
